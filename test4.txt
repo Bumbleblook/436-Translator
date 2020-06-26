@@ -1,0 +1,22 @@
+Script started on Thu 12 Dec 2019 07:44:18 PM PST
+]0;perez311@empress:~/CS421Progs/TranslatorFiles[?1034h[perez311@empress TranslatorFiles]$ ./a.out
+Enter the input file name: parc tCtest4
+Processing <Story> 
+
+Processing <S>
+Scanner called using word: watashi
+Processing <Noun>
+Matched PRONOUN
+Scanner called using word: wa
+Matched SUBJECT
+Processing <After-Subject>
+Scanner called using word: rika
+Processing <Noun>
+Matched WORD1
+Processing <After-Noun>
+Scanner called using word: mashita
+SYNTAX ERROR: unexpected mashita found in parser function After-Noun
+]0;perez311@empress:~/CS421Progs/TranslatorFiles[perez311@empress TranslatorFiles]$ ./a.out[3Pexit
+exit
+
+Script done on Thu 12 Dec 2019 07:44:39 PM PST

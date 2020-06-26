@@ -1,0 +1,167 @@
+Script started on Thu 12 Dec 2019 03:34:59 PM PST
+]0;perez311@empress:~/CS421Progs/TranslatorFiles[?1034h[perez311@empress TranslatorFiles]$ g++ translator.cpp 
+]0;perez311@empress:~/CS421Progs/TranslatorFiles[perez311@empress TranslatorFiles]$ group16project.out.group16project.out/group16project.outagroup16project.out[1Pgroup16project.out
+Enter the input file name: partCtest1
+Processing <Story> 
+
+Processing <S>
+Scanner called using word: watashi
+Processing <Noun>
+Matched PRONOUN
+Scanner called using word: wa
+Matched SUBJECT
+Processing <After-Subject>
+Scanner called using word: rika
+Processing <Noun>
+Matched WORD1
+Processing <After-Noun>
+Scanner called using word: desu
+Processing <Be>
+Matched IS
+Scanner called using word: .
+Matched PERIOD
+Scanner called using word: watashi
+Processing <S>
+Processing <Noun>
+Matched PRONOUN
+Scanner called using word: wa
+Matched SUBJECT
+Processing <After-Subject>
+Scanner called using word: sensei
+Processing <Noun>
+Matched WORD1
+Processing <After-Noun>
+Scanner called using word: desu
+Processing <Be>
+Matched IS
+Scanner called using word: .
+Matched PERIOD
+Scanner called using word: rika
+Processing <S>
+Processing <Noun>
+Matched WORD1
+Scanner called using word: wa
+Matched SUBJECT
+Processing <After-Subject>
+Scanner called using word: gohan
+Processing <Noun>
+Matched WORD1
+Processing <After-Noun>
+Scanner called using word: o
+Matched OBJECT
+Processing <After-Object>
+Scanner called using word: tabE
+Processing <Verb>
+Matched WORD2
+Processing <Tense>
+Scanner called using word: masu
+Matched VERB
+Scanner called using word: .
+Matched PERIOD
+Scanner called using word: watashi
+Processing <S>
+Processing <Noun>
+Matched PRONOUN
+Scanner called using word: wa
+Matched SUBJECT
+Processing <After-Subject>
+Scanner called using word: tesuto
+Processing <Noun>
+Matched WORD1
+Processing <After-Noun>
+Scanner called using word: o
+Matched OBJECT
+Processing <After-Object>
+Scanner called using word: seito
+Processing <Noun>
+Matched WORD1
+Scanner called using word: ni
+Matched DESTINATION
+Processing <Verb>
+Scanner called using word: agE
+Matched WORD2
+Processing <Tense>
+Scanner called using word: mashita
+Matched VERBPAST
+Scanner called using word: .
+Matched PERIOD
+Scanner called using word: shikashi
+Processing <S>
+Matched CONNECTOR
+Processing <Noun>
+Scanner called using word: seito
+Matched WORD1
+Scanner called using word: wa
+Matched SUBJECT
+Processing <After-Subject>
+Scanner called using word: yorokobI
+Processing <Verb>
+Matched WORD2
+Processing <Tense>
+Scanner called using word: masendeshita
+Matched VERBPASTNEG
+Scanner called using word: .
+Matched PERIOD
+Scanner called using word: dakara
+Processing <S>
+Matched CONNECTOR
+Processing <Noun>
+Scanner called using word: watashi
+Matched PRONOUN
+Scanner called using word: wa
+Matched SUBJECT
+Processing <After-Subject>
+Scanner called using word: kanashii
+Processing <Noun>
+Matched WORD1
+Processing <After-Noun>
+Scanner called using word: deshita
+Processing <Be>
+Matched WAS
+Scanner called using word: .
+Matched PERIOD
+Scanner called using word: soshite
+Processing <S>
+Matched CONNECTOR
+Processing <Noun>
+Scanner called using word: rika
+Matched WORD1
+Scanner called using word: wa
+Matched SUBJECT
+Processing <After-Subject>
+Scanner called using word: toire
+Processing <Noun>
+Matched WORD1
+Processing <After-Noun>
+Scanner called using word: ni
+Matched DESTINATION
+Processing <Verb>
+Scanner called using word: ikI
+Matched WORD2
+Processing <Tense>
+Scanner called using word: mashita
+Matched VERBPAST
+Scanner called using word: .
+Matched PERIOD
+Scanner called using word: rika
+Processing <S>
+Processing <Noun>
+Matched WORD1
+Scanner called using word: wa
+Matched SUBJECT
+Processing <After-Subject>
+Scanner called using word: nakI
+Processing <Verb>
+Matched WORD2
+Processing <Tense>
+Scanner called using word: mashita
+Matched VERBPAST
+Scanner called using word: .
+Matched PERIOD
+Scanner called using word: eofm
+
+succesfully parsed <Story>
+]0;perez311@empress:~/CS421Progs/TranslatorFiles[perez311@empress TranslatorFiles]$ exit
+exit
+
+Script done on Thu 12 Dec 2019 03:36:27 PM PST

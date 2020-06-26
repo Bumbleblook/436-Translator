@@ -1,0 +1,27 @@
+Script started on Thu 12 Dec 2019 07:43:14 PM PST
+]0;perez311@empress:~/CS421Progs/TranslatorFiles[?1034h[perez311@empress TranslatorFiles]$ ./a.out 
+Enter the input file name: partCtest2
+Processing <Story> 
+
+Processing <S>
+Scanner called using word: soshite
+Matched CONNECTOR
+Processing <Noun>
+Scanner called using word: watashi
+Matched PRONOUN
+Scanner called using word: wa
+Matched SUBJECT
+Processing <After-Subject>
+Scanner called using word: rika
+Processing <Noun>
+Matched WORD1
+Processing <After-Noun>
+Scanner called using word: desu
+Processing <Be>
+Matched IS
+Scanner called using word: ne
+SYNTAX ERROR: Expected PERIOD but found ne
+]0;perez311@empress:~/CS421Progs/TranslatorFiles[perez311@empress TranslatorFiles]$ exit
+exit
+
+Script done on Thu 12 Dec 2019 07:43:38 PM PST

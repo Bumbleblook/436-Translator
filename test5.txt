@@ -1,0 +1,13 @@
+Script started on Thu 12 Dec 2019 07:44:48 PM PST
+]0;perez311@empress:~/CS421Progs/TranslatorFiles[?1034h[perez311@empress TranslatorFiles]$ ,[K./a.out 
+Enter the input file name: test5^[[D^[[D^[[D                 partCtest5
+Processing <Story> 
+
+Processing <S>
+Scanner called using word: wa
+Processing <Noun>
+SYNTAX ERROR: unexpected wa found in parser function Noun
+]0;perez311@empress:~/CS421Progs/TranslatorFiles[perez311@empress TranslatorFiles]$ exit
+exit
+
+Script done on Thu 12 Dec 2019 07:45:18 PM PST

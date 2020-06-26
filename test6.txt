@@ -1,0 +1,14 @@
+Script started on Thu 12 Dec 2019 07:45:30 PM PST
+]0;perez311@empress:~/CS421Progs/TranslatorFiles[?1034h[perez311@empress TranslatorFiles]$ group[K[K[K[K[K./group16project.out 
+Enter the input file name: partCtest6
+Processing <Story> 
+
+Processing <S>
+Scanner called using word: apple
+LEXICAL ERROR: apple is not a valid token
+Processing <Noun>
+SYNTAX ERROR: unexpected apple found in parser function Noun
+]0;perez311@empress:~/CS421Progs/TranslatorFiles[perez311@empress TranslatorFiles]$ exit
+exit
+
+Script done on Thu 12 Dec 2019 07:47:43 PM PST

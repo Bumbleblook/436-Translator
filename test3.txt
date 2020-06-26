@@ -1,0 +1,17 @@
+Script started on Thu 12 Dec 2019 07:43:43 PM PST
+]0;perez311@empress:~/CS421Progs/TranslatorFiles[?1034h[perez311@empress TranslatorFiles]$ exit./a.out [2Plogout./a.out 
+Enter the input file name: [art    Par   partCtest3
+Processing <Story> 
+
+Processing <S>
+Scanner called using word: dakara
+Matched CONNECTOR
+Processing <Noun>
+Scanner called using word: watashi
+Matched PRONOUN
+Scanner called using word: de
+SYNTAX ERROR: Expected SUBJECT but found de
+]0;perez311@empress:~/CS421Progs/TranslatorFiles[perez311@empress TranslatorFiles]$ exit
+exit
+
+Script done on Thu 12 Dec 2019 07:44:16 PM PST
